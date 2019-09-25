@@ -4,6 +4,7 @@ body{
 .colborder{
   background-color: lightgreen;
   text-align: center;
+  border: 1px solid black;
   line-height: 20vh;
 }
 
