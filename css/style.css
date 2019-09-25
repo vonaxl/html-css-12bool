@@ -1,3 +1,9 @@
 body{
-  background-color: red;
+  background-color: black;
+}
+.colborder {
+  margin: 1px;
+  background-color: lightgreen;
+  text-align: center;
+  line-height: 50px;
 }

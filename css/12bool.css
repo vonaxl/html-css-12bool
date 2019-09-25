@@ -1,6 +1,7 @@
 *{
   padding: 0;
   margin: 0;
+
   box-sizing: 0;
 }
 
@@ -16,8 +17,9 @@
   width: 100%;
 }
 
-.row[class^="col"]{
+[class*="col-"]{
   float: left;
+  /* display: block; */
 }
 
 .col-1{
