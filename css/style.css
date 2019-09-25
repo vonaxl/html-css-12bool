@@ -1,9 +1,12 @@
 body{
   background-color: black;
 }
-.colborder {
-  margin: 1px;
+.colborder{
   background-color: lightgreen;
   text-align: center;
-  line-height: 50px;
+  line-height: 20vh;
+}
+
+.nested{
+  background-color: red;
 }
