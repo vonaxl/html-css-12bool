@@ -1,13 +1,18 @@
 body{
-  background-color: black;
+  background-color: white;
 }
 .colborder{
   background-color: lightgreen;
   text-align: center;
   border: 1px solid black;
-  line-height: 20vh;
+  line-height: 15vh;
 }
 
 .nested{
   background-color: red;
+  border: 1px solid white;
+}
+
+.pad5{
+  padding: 5px;
 }
